@@ -1,0 +1,13 @@
+.produto_container{
+    padding: 16px;
+}
+
+.produto_container h1 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.botao {
+    text-align: center;
+    padding: 0 0 0 84px;
+}

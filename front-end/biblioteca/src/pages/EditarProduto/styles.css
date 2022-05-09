@@ -1,0 +1,27 @@
+.produto_edit{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 8px;
+}
+
+.produto_campo{
+    display: grip;
+    grid-template-columns: 30% 1fr;
+}
+
+.produto_label{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.produto_card_actions{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.editar_btn{
+    width: 100%;
+}
